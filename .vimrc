@@ -2,6 +2,7 @@
 call plug#begin()
 Plug 'morhetz/gruvbox'
 call plug#end()
+
 autocmd vimenter * ++nested colorscheme gruvbox
 
 " Turn syntax highlighting on.
@@ -44,4 +45,4 @@ set showmatch
 set hlsearch
 
 " noh - no highlight
-map <esc> :noh <CR>
+nnoremap \ :noh<return>

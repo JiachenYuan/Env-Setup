@@ -1,4 +1,4 @@
-## This is my vimrc file for UNIX OS
+## This is my environment setup files for UNIX OS
 ### Steps to download       
 1. Copy the vimrc file to ~/.vimrc
 2. run `curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
