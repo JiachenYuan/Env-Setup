@@ -1,5 +1,5 @@
 ## This is my environment setup files for UNIX OS
-### Steps to download       
+### VIM setup       
 1. Copy the vimrc file to ~/.vimrc
 2. run `curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
     https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim` to install vim-plug 
